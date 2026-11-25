@@ -7,8 +7,8 @@ Free. Your file never leaves your computer.
 
 ## Use it
 
-- **In your browser:** <https://sprivoofficial.github.io/clean_csv_public/>
-- **Offline:** download `clean-sheet.html` from [Releases](https://github.com/sprivoofficial/clean_csv_public/releases/latest), then double-click it. It opens in your browser and works with no internet.
+- **In your browser:** <https://sprivoofficial.github.io/clean_csv/>
+- **Offline:** download `clean-sheet.html` from [Releases](https://github.com/sprivoofficial/clean_csv/releases/latest), then double-click it. It opens in your browser and works with no internet.
 
 Inside the page it is called **Clean Sheet**.
 
